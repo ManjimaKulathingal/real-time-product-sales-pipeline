@@ -1,0 +1,52 @@
+[
+    {
+        "event_id": "2648834e-c0e5-4738-8310-51bbdfd7f0cd",
+        "event_type": "product_sale",
+        "product_id": "P1005",
+        "product_name": "Monitor",
+        "quantity": 3,
+        "unit_price": 12000.0,
+        "total_amount": 36000.0,
+        "event_timestamp": "2026-11-01T20:30:12.078472+00:00"
+    },
+    {
+        "event_id": "8900ac59-e41b-4411-8ccb-ede1f7193210",
+        "event_type": "product_sale",
+        "product_id": "P1004",
+        "product_name": "Mouse",
+        "quantity": 2,
+        "unit_price": 800.0,
+        "total_amount": 1600.0,
+        "event_timestamp": "2026-11-01T20:30:12.079472+00:00"
+    },
+    {
+        "event_id": "f80397d4-2250-4ce4-9ccc-a95df5ee1d2c",
+        "event_type": "product_sale",
+        "product_id": "P1001",
+        "product_name": "Laptop",
+        "quantity": 1,
+        "unit_price": 55000.0,
+        "total_amount": 55000.0,
+        "event_timestamp": "2026-11-01T20:30:12.079472+00:00"
+    },
+    {
+        "event_id": "fffacf8a-ee97-4bef-8d1b-b75db8cba099",
+        "event_type": "product_sale",
+        "product_id": "P1002",
+        "product_name": "Headphones",
+        "quantity": 2,
+        "unit_price": 2500.0,
+        "total_amount": 5000.0,
+        "event_timestamp": "2026-11-01T20:30:12.079472+00:00"
+    },
+    {
+        "event_id": "c00f655c-afc9-4bd4-8f3e-1e02b3921166",
+        "event_type": "product_sale",
+        "product_id": "P1004",
+        "product_name": "Mouse",
+        "quantity": 1,
+        "unit_price": 800.0,
+        "total_amount": 800.0,
+        "event_timestamp": "2026-11-01T20:30:12.079472+00:00"
+    }
+]
